@@ -72,3 +72,6 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+target/
+dependency-reduced-pom.xml
+zeromq-test.iml
